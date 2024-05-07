@@ -1,0 +1,1 @@
+The notebook enables the calculation of the probability of exceeding a fire danger threshold under various climate scenarios defined by changes in temperature and precipitation. It also incorporates the latest CMIP6 projections.
